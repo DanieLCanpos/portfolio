@@ -240,6 +240,7 @@ section .header{
 
 .pricing .card .content{
     flex: 1;
+    margin-top: 1rem;
     margin-bottom: 2rem;
 }
 
@@ -262,6 +263,12 @@ section .header{
 .pricing .card p{
     color: #fff;
     margin-bottom: 0.75rem;
+}
+
+.pricing .card .content .image{
+    position: relative;
+    width: 100%;
+    margin-bottom: 2rem;
 }
 
 .pricing .card p i{

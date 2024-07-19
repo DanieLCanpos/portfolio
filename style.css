@@ -93,8 +93,9 @@ nav{
 }
 
 header{
-    height:70%;
+    
     position: relative;
+    top:-100;
     padding: 2rem;
     display: grid;
     grid-template-columns: repeat(2, 1fr);

@@ -93,6 +93,7 @@ nav{
 }
 
 header{
+    height:70%;
     position: relative;
     padding: 2rem;
     display: grid;

@@ -80,7 +80,7 @@ nav{
 }
 
 .container{
-
+    top:-100px;
     max-width: 1200px;
     margin: auto;
     padding: 5rem 2rem;
@@ -93,9 +93,8 @@ nav{
 }
 
 header{
-    
     position: relative;
-    top:-100;
+    top:-100px;
     padding: 2rem;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
